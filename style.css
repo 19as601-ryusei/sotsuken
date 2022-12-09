@@ -2,7 +2,7 @@
     background-size: cover;
     width: 100%;
     height: 1000px;
-    margin: 20px 0px 10px 0px;
+    margin:auto;
     background-image: url("top.png");
     background-repeat: no-repeat;
     background-position: center center; 
@@ -22,7 +22,7 @@
 
 
 
-.section {
+.section{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -115,9 +115,6 @@
 .footer_col01{
     margin-left: 256px;
     }
-.footer_col02{
-
-}
 
 .footer_col03{
     margin-right: 256px;
